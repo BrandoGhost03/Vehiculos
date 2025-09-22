@@ -1,0 +1,14 @@
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Vehiculos Brando Osoy\Vehiculos Brando Osoy\bin\Debug\net8.0\Vehiculos Brando Osoy.exe
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Vehiculos Brando Osoy\Vehiculos Brando Osoy\bin\Debug\net8.0\Vehiculos Brando Osoy.deps.json
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Vehiculos Brando Osoy\Vehiculos Brando Osoy\bin\Debug\net8.0\Vehiculos Brando Osoy.runtimeconfig.json
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Vehiculos Brando Osoy\Vehiculos Brando Osoy\bin\Debug\net8.0\Vehiculos Brando Osoy.dll
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Vehiculos Brando Osoy\Vehiculos Brando Osoy\bin\Debug\net8.0\Vehiculos Brando Osoy.pdb
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Vehiculos Brando Osoy\Vehiculos Brando Osoy\obj\Debug\net8.0\Vehiculos Brando Osoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Vehiculos Brando Osoy\Vehiculos Brando Osoy\obj\Debug\net8.0\Vehiculos Brando Osoy.AssemblyInfoInputs.cache
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Vehiculos Brando Osoy\Vehiculos Brando Osoy\obj\Debug\net8.0\Vehiculos Brando Osoy.AssemblyInfo.cs
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Vehiculos Brando Osoy\Vehiculos Brando Osoy\obj\Debug\net8.0\Vehiculos Brando Osoy.csproj.CoreCompileInputs.cache
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Vehiculos Brando Osoy\Vehiculos Brando Osoy\obj\Debug\net8.0\Vehiculos Brando Osoy.dll
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Vehiculos Brando Osoy\Vehiculos Brando Osoy\obj\Debug\net8.0\refint\Vehiculos Brando Osoy.dll
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Vehiculos Brando Osoy\Vehiculos Brando Osoy\obj\Debug\net8.0\Vehiculos Brando Osoy.pdb
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Vehiculos Brando Osoy\Vehiculos Brando Osoy\obj\Debug\net8.0\Vehiculos Brando Osoy.genruntimeconfig.cache
+C:\Users\Brando\Documents\Ejercicios Unidad 2\Vehiculos Brando Osoy\Vehiculos Brando Osoy\obj\Debug\net8.0\ref\Vehiculos Brando Osoy.dll
